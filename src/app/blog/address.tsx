@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from "next/image";
-import shop from "../../../images/shop-sec.png";
+import shop from "../../../images/heroSec/shop-sec.png";
 import Link from "next/link";
-import logo from "../../../images/Meubel House_Logos-05.png";
+import logo from "../../../images/heroSec/Meubel House_Logos-05.png";
 
 const Account = () => {
   return (
