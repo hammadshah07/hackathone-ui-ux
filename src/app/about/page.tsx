@@ -1,11 +1,14 @@
+import FeautureBanners from "@/components/feautureBanners"
+import Accounts from "./adress"
+import AboutSec from "./aboutSec"
 
 
 const About = () => {
   return (
     <div>
-
-      <h1>hello</h1>
-   
+      <Accounts />
+      <AboutSec />
+      <FeautureBanners />
     </div>
   )
 }
